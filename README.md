@@ -1,8 +1,8 @@
 # Housing Data
 
-Data fields
-Here's a brief version of what you'll find in the data description file.
-
+Data fields:
+Here's a brief version of what you'll find in the data description file:
+###
 SalePrice - the property's sale price in dollars. This is the target variable that you're trying to predict.
 MSSubClass: The building class
 MSZoning: The general zoning classification
@@ -83,7 +83,7 @@ MoSold: Month Sold
 YrSold: Year Sold
 SaleType: Type of sale
 SaleCondition: Condition of sale
+#
 
-
-Goal
+Goal:
 To predict the sales price for each house. 
